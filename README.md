@@ -11,4 +11,4 @@ https://azure.microsoft.com/en-gb/resources/samples/iot-hub-c-huzzah-getstartedk
 https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-arduino-huzzah-esp8266-get-started
 https://github.com/Azure-Samples/iot-hub-feather-huzzah-client-app
 
-Credits : SummerSun(Github User) and Microsoft
+Credits : SummerSun(Github User) and Microsoft.
